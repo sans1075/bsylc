@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Beiruti:wght@200..900&display=swap');
+
+h1 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 120px;
+  display: block;
+}
+
+h4 {
+  font-family: 'Beiruti', sans-serif;
+  font-size: 60px;
+}
+
+.header {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 10px 0;
+  background-image: url('https://static.wixstatic.com/media/4951af_262a739393664e518f147d34f34255c3~mv2_d_3000_2000_s_2.jpg/v1/fill/w_980,h_894,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4951af_262a739393664e518f147d34f34255c3~mv2_d_3000_2000_s_2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header h1 {
+   color: #ffffff;
+  -webkit-text-fill-color: #292F5D;
+  -webkit-text-stroke: 2px;
+  text-shadow: 0 0 100px #00008B;
+}
+
+.header h4 {
+   color: #000000;
+  -webkit-text-fill-color: #ffffff;
+  -webkit-text-stroke: 2px;
+  text-shadow: 0 0 10px #00008B;
+}
