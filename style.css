@@ -6,22 +6,35 @@ h1 {
   text-align: center;
   font-size: 600%;
   display: block;
+  font-weight: 500;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 450%;
+  display: block;
+  font-weight: 400;
 }
 
 h4 {
   font-family: 'Beiruti', sans-serif;
   font-size: 300%;
+  font-weight: 400;
 }
 
 .header {
   width: 100%;
   text-align: center;
-  margin: 0;
-  font-weight: 500;
-  padding: 10px 0;
+  padding: 10px 10px;
   background-image: url('header-image.png');
   background-repeat: no-repeat;
   background-size: cover;
   color: #ffffff;
   margin: -10px;
+}
+
+.focus {
+  background-color: white;
+  align-content: space-evenly;
 }
