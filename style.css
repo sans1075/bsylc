@@ -12,7 +12,7 @@ h1 {
 h2 {
   font-family: "Playfair Display", serif;
   text-align: center;
-  font-size: 450%;
+  font-size: 400%;
   display: block;
   font-weight: 400;
 }
@@ -32,9 +32,17 @@ h4 {
   background-size: cover;
   color: #ffffff;
   margin: -10px;
+  margin-bottom: 0px;
 }
 
 .focus {
   background-color: white;
   align-content: space-evenly;
+}
+
+.focus-law {
+  background-color: #ADD8E6;
+  width: 20%;
+  height: 40%;
+  display: block;
 }
