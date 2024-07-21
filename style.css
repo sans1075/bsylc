@@ -22,7 +22,5 @@ h4 {
   background-image: url('header-image.png');
   background-repeat: no-repeat;
   background-size: cover;
-  color: #2A3156;
-  -webkit-text-fill-color: #ffffff;
-  -webkit-text-stroke: 2px;
+  color: #ffffff;
 }
