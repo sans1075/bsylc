@@ -36,13 +36,53 @@ h4 {
 }
 
 .focus {
-  background-color: white;
   align-content: space-evenly;
+  background-image: url('https://static.wixstatic.com/media/11062b_81c2fc27768c49ccb259123d551d58ec~mv2.jpg/v1/fill/w_980,h_805,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_81c2fc27768c49ccb259123d551d58ec~mv2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.focus-header {
+  background-color: #d3def0;
+  color: #172e52;
 }
 
 .focus-law {
-  background-color: #ADD8E6;
+  background-color: #FFFFF;
   width: 20%;
   height: 40%;
-  display: block;
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  margin: 0 10px;
+}
+
+.focus-publicpolicy {
+  background-color: #FFFFF;
+  width: 20%;
+  height: 40%;
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  margin: 0 10px;
+}
+
+.focus-civics {
+  background-color: #FFFFF;
+  width: 20%;
+  height: 40%;
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  margin: 0 10px;
+}
+
+.focus-politics {
+  background-color: #FFFFF;
+  width: 20%;
+  height: 40%;
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  margin: 0 10px;
 }
