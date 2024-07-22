@@ -36,7 +36,7 @@ h4 {
 }
 
 .focus {
-  align-content: space-evenly;
+  align-content: space-between;
   background-image: url('focus-image.png');
   background-repeat: no-repeat;
   background-size: cover;
