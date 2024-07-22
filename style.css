@@ -128,7 +128,7 @@ p {
 }
 
 .conferencerecap-govwesmoore {
-  margin-top: -4%;
+  margin-top: -2%;
 }
 
 .conferencerecap-govwesmoore-video {
@@ -150,8 +150,12 @@ p {
   margin: 0 -1% 0 -1%
 }
 
-.partners-header, .partners-desc {
+.partners-header {
   margin-top: -4%;
+}
+
+.partners-desc {
+  margin-top: -2%;
 }
 
 .partners-logos {
