@@ -96,6 +96,11 @@ p {
   color: #172e52;
 }
 
+.conferencerecap h2 {
+  text-align: left;
+  margin-left: 7%;
+}
+
 .conferencerecap-desc {
   margin-left: 7%;
   margin-right: 35%;
@@ -120,4 +125,36 @@ p {
 
 .conferencerecap-photos img:nth-child(4) {
   margin-right: 1%;
+}
+
+.conferencerecap-govwesmoore {
+  margin-top: -4%;
+}
+
+.conferencerecap-govwesmoore-video {
+  align-content: center;
+  display: block;
+  margin-left: 20%;
+  margin-top: -2%;
+  margin-bottom: 4%;
+}
+
+.partners {
+  text-align: center;
+  background-color: #172e52;
+  background: linear-gradient(90deg, #172e52 0%, rgba(23, 46, 82, 0.5) 100%);
+  color: white;
+  height: 40%;
+  width: 100%;
+  padding: 1%;
+  margin: 0 -1% 0 -1%
+}
+
+.partners-header, .partners-desc {
+  margin-top: -4%;
+}
+
+.partners-logos {
+  display: flex;
+  margin: -2% 0 -3% 28%;
 }
