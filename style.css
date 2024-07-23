@@ -29,15 +29,14 @@
 
 .navigation li:first-child {
   margin-left: 10%;
-  margin-top: 0;
-  padding-bottom: 4%;
+  margin-top: -1%;
 }
 
 .navigation li:nth-child(2) {
   margin-left: 2%;
 }
 
-.navigation li a {
+.navigation a {
   display: block;
   color: white;
   text-align: center;
@@ -45,7 +44,7 @@
   text-decoration: none;
 }
 
-.navigation li a:hover {
+.navigation a:hover {
   background-color: #0c1729;
 }
 
