@@ -9,7 +9,7 @@
 
 .navigation ul {
   position: fixed;
-  top: -1%;
+  top: 0;
   width: 100%;
   list-style-type: none;
   margin: 0;
@@ -21,12 +21,12 @@
 
 .navigation li {
   float: left;
-  margin-top: 1%;
+  margin-top: 0.5%;
   border-right: 1px solid #fff;
 }
 
 .navigation li:first-child {
-  margin-left: 10%;
+  margin-left: 20%;
   border-right: 0;
   margin-top: 0;
 }
