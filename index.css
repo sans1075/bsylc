@@ -116,6 +116,8 @@ p {
 .about-top {
   display: flex;  
   background: linear-gradient(90deg, #999999 0%, #eeeeee 100%);
+  text-align: center;
+  justify-content: space-evenly;
 }
 
 .about-top h2 {
