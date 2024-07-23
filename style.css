@@ -4,14 +4,20 @@
 .navigation ul {
   list-style-type: none;
   margin: 0;
+  margin-top: -2%;
   padding: 0;
+  padding-bottom: 2%;
   overflow: hidden;
-  background-color: #dddddd;
+  background-color: #172e52;
 }
 
 .navigation li {
   float: left;
-  
+  border-right: 1px solid #d3def0;
+}
+
+.navigation li:last-child {
+  border-right: none;
 }
 
 .navigation a {
@@ -23,7 +29,7 @@
 }
 
 .navigation a:hover {
-  background-color: #111111;
+  background-color: #0C1729;
 }
 
 h1 {
