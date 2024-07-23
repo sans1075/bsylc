@@ -127,7 +127,11 @@ p {
 .about-top-mission,
 .about-top-scales,
 .about-top-goal {
-  width: 32%;
+  width: 40%;
+}
+
+.about-top-scales {
+  width: 18%;
 }
 
 .about-top-scales {
