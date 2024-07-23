@@ -30,8 +30,7 @@
 
 .navigation li:first-child {
   margin-left: 10%;
-  margin-top: 0;
-  margin-bottom: 1%;
+  align-self: center;
 }
 
 .navigation li:nth-child(2) {
@@ -197,8 +196,8 @@ p {
   margin-right: 1%;
 }
 
-.conferencerecap-photos img.in-view {
-  animation: photos-slideup 1.5s ease-in-out;
+.conferencerecap-photos img:hover {
+  animation: photos-slideup 1s ease-in-out;
 }
 
 @keyframes photos-slideup {
