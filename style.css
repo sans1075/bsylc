@@ -30,7 +30,8 @@
 
 .navigation li:first-child {
   margin-left: 10%;
-  align-self: center;
+  margin-top: 0;
+  margin-bottom: 2%;
 }
 
 .navigation li:nth-child(2) {
@@ -99,6 +100,7 @@ p {
 .header h1,
 .header h4 {
   width: 90%;
+  align-content: center;
   text-align: center;
   animation: header-slidein 1.5s ease-in-out;
 }
@@ -194,21 +196,6 @@ p {
 
 .conferencerecap-photos img:nth-child(4) {
   margin-right: 1%;
-}
-
-.conferencerecap-photos img:hover {
-  animation: photos-slideup 1s ease-in-out;
-}
-
-@keyframes photos-slideup {
-   0% {
-    opacity: 0;
-    transform: translateY(100%);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 .conferencerecap-govwesmoore {
