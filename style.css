@@ -99,6 +99,8 @@ p {
 
 .header h1,
 .header h4 {
+  width: 90%;
+  text-align: center;
   animation: header-slidein 1.5s ease-in-out;
 }
 
@@ -195,7 +197,7 @@ p {
   margin-right: 1%;
 }
 
-.conferencerecap-photos img {
+.conferencerecap-photos img.in-view {
   animation: photos-slideup 1.5s ease-in-out;
 }
 
