@@ -5,12 +5,17 @@
   list-style-type: none;
   margin: -1% -1% 0 -1%;
   padding: 0 1% 1% 1%;
-  background-color: #172e52;
 }
 
 .navigation li {
   float: left;
   border-right: 1px solid #d3def0;
+  font-family: 'Playfair Display', serif;
+  font-size: 100%;
+}
+
+.navigation li:first-child {
+  margin-left: 20%;
 }
 
 .navigation li:last-child {
@@ -21,8 +26,9 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 1% 1%;
   text-decoration: none;
+  background-color: #172e52;
 }
 
 .navigation a:hover {
