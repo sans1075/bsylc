@@ -117,13 +117,12 @@ p {
   display: flex;  
   background-image: url('https://cdn.pixabay.com/photo/2015/10/29/14/42/law-1012473_1280.jpg');
   text-align: center;
-  justify-content: space-between;
+  justify-content: center;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 102%;
-  display: flex;
-  align-items: stretch;
-  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+  padding: 2% 0;
 }
 
 .about-top h2 {
@@ -134,11 +133,11 @@ p {
 .about-top-goal {
   width: 40%;
   background: #ffffff;
-  height: 60%;
   display: flex;
   flex-direction: column;
-  padding: 0 2% 2% 2%;
-  margin: 0 1%;
+  padding: 2%;
+  margin: 1%;
+  box-sizing: border-box;
 }
 
 .about-focus {
