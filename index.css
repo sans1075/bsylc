@@ -124,6 +124,7 @@ p {
   width: 100%;
   align-items: center;
   padding: 2% 0;
+  flex: 1;
 }
 
 .about-top h2 {
@@ -139,6 +140,11 @@ p {
   padding: 2%;
   margin: 1%;
   box-sizing: border-box;
+}
+
+.about-top-mission p,
+.about-top-goal p {
+  margin: auto;
 }
 
 .about-focus {
@@ -177,6 +183,13 @@ p {
   padding: 0 2% 2% 2%;
   margin: 0 1%;
   flex-direction: column;
+}
+
+.about-focus-columns-law p,
+.about-focus-columns-publicpolicy p,
+.about-focus-columns-civics p,
+.about-focus-columns-politics {
+  margin: auto;
 }
 
 .about-focus-columns-law {
