@@ -115,11 +115,12 @@ p {
 
 .about-top {
   display: flex;  
-  background-image: url('https://cdn.pixabay.com/photo/2015/10/29/14/42/law-1012473_1280.jpg');
+  background-image: url('https://t4.ftcdn.net/jpg/03/41/05/77/360_F_341057795_YdAlWTT4WDe3fo8sXTHcVYtwOo62jYy8.jpg');
   text-align: center;
   justify-content: center;
   background-repeat: no-repeat;
   background-size: cover;
+  align-items: stretch;
   width: 100%;
   align-items: center;
   padding: 2% 0;
