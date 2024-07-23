@@ -117,6 +117,10 @@ p {
   display: flex;  
 }
 
+.about-top h2 {
+  font-weight: 400;
+}
+
 .about-top-mission,
 .about-top-scales,
 .about-top-goal {
