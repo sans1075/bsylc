@@ -43,7 +43,7 @@ p {
   background-image: url('header-image.png');
   background-repeat: no-repeat;
   background-size: cover;
-  color: #ffffff;
+  color: #fff;
   margin: -1%;
   margin-bottom: 0;
 }
@@ -73,8 +73,11 @@ p {
   flex-wrap: wrap;
 }
 
-.focus-columns-law, .focus-columns-publicpolicy, .focus-columns-civics, .focus-columns-politics {
-  background-color: #FFFFFF;
+.focus-columns-law,
+.focus-columns-publicpolicy,
+.focus-columns-civics,
+.focus-columns-politics {
+  background-color: #fff;
   width: 19%;
   display: flex;
   text-align: center;
@@ -141,13 +144,12 @@ p {
 
 .partners {
   text-align: center;
-  background-color: #172e52;
-  background: linear-gradient(90deg, #172e52 0%, rgba(23, 46, 82, 0.5) 100%);
+  background: linear-gradient(90deg, #51627D 0%, rgba(139,151,169, 0.25) 100%);
   color: white;
   height: 40%;
   width: 100%;
   padding: 1%;
-  margin: 0 -1% 0 -1%
+  margin: 0 -1%;
 }
 
 .partners-header {
@@ -161,4 +163,69 @@ p {
 .partners-logos {
   display: flex;
   margin: -1% 0 -5% 28%;
+}
+
+.footer {
+  background-color: #172e52;
+  color: white;
+  width: 100%;
+  margin: 0 -1% 0 -1%;
+  padding: 1%;
+  margin-bottom: -2%;
+}
+
+.footer-text {
+  display: flex;
+  margin-left: 22%;
+  margin-top: -4%;
+}
+
+.footer-text h4 {
+  margin-left: 3%;
+  margin-top: 9%;
+}
+
+.footer-text br {
+ display: block;
+ content: "";
+ margin-top: -4%;
+}
+
+hr {
+  width: 65%;
+  border-color: #8b97a9;
+  margin-top: -3%;
+}
+
+.footer-contact {
+  text-align: center;
+  display: flex;
+}
+
+.footer-contact p {
+  font-size: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.footer-contact h4 {
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
+.footer-contact-main,
+.footer-contact-map,
+.footer-contact-insta {
+  width: 30%;
+  height: 20%;
+  margin-right: -5%;
+  margin-left: -5%;
+}
+
+.footer-contact-main {
+  margin-left: 20%;
+}
+
+.footer-contact-insta {
+  margin-left: -8%;
 }
