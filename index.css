@@ -115,7 +115,7 @@ p {
 
 .about-top {
   display: flex;  
-  background: linear-gradient(90deg, #999999 0%, #eeeeee 100%);
+  background-image: url('https://www.dcs.training/wp-content/uploads/2020/08/Justice.jpg');
   text-align: center;
   justify-content: space-evenly;
 }
@@ -125,19 +125,9 @@ p {
 }
 
 .about-top-mission,
-.about-top-scales,
 .about-top-goal {
-  width: 40%;
-}
-
-.about-top-scales {
-  width: 18%;
-}
-
-.about-top-scales {
-  height: auto;
-  weight: auto;
-  align-self: center;
+  width: 45%;
+  background: #ffffff;
 }
 
 .about-focus {
