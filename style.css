@@ -182,13 +182,7 @@ p {
 
 .footer-text h4 {
   margin-left: 3%;
-  margin-top: 3%;
-}
-
-.footer-text br {
- display: block;
- content: "";
- margin-top: -4%;
+  margin-top: 6%;
 }
 
 hr {
