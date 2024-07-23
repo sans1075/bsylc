@@ -113,14 +113,17 @@ p {
   }
 }
 
-.mission,
-.scales,
-.goal {
-  width: 32%;
-  
+.about-top {
+  display: block;  
 }
 
-.focus {
+.about-top-mission,
+.about-top-scales,
+.about-top-goal {
+  width: 32%;
+}
+
+.about-focus {
   width: 100%;
   padding: 1% 1%;
   padding-top: 0;
@@ -132,23 +135,23 @@ p {
   color: #172e52;
 }
 
-.focus-header {
+.about-focus-header {
   background-color: #d3def0;
   color: #172e52;
   margin-top: -2%;
 }
 
-.focus-columns {
+.about-focus-columns {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
   flex-wrap: wrap;
 }
 
-.focus-columns-law,
-.focus-columns-publicpolicy,
-.focus-columns-civics,
-.focus-columns-politics {
+.about-focus-columns-law,
+.about-focus-columns-publicpolicy,
+.about-focus-columns-civics,
+.about-focus-columns-politics {
   background-color: #fff;
   width: 19%;
   display: flex;
@@ -158,11 +161,11 @@ p {
   flex-direction: column;
 }
 
-.focus-columns-law {
+.about-focus-columns-law {
   margin-left: 1%;
 }
 
-.focus-columns-politics {
+.about-focus-columns-politics {
   margin-right: 1%;
 }
 
