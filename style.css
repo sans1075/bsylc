@@ -29,7 +29,7 @@
 
 .navigation li:first-child {
   margin-left: 10%;
-  margin-top: -2%;
+  margin-top: 0;
 }
 
 .navigation li:nth-child(2) {
