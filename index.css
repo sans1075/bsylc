@@ -115,7 +115,7 @@ p {
 
 .about-top {
   display: flex;  
-  background-image: url('https://www.dcs.training/wp-content/uploads/2020/08/Justice.jpg');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpDhiu7DaHF-w6k4F0-PJjIxQfX0Ml-uveg&s');
   text-align: center;
   justify-content: space-evenly;
 }
@@ -128,6 +128,7 @@ p {
 .about-top-goal {
   width: 45%;
   background: #ffffff;
+  height: 60%;
 }
 
 .about-focus {
