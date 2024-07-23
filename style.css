@@ -217,8 +217,8 @@ hr {
 .footer-contact-map {
   width: 30%;
   height: 20%;
-  margin-right: -20%;
-  margin-left: -20%;
+  margin-right: -10%;
+  margin-left: -10%;
 }
 
 .footer-contact-main {
@@ -226,6 +226,6 @@ hr {
 }
 
 .footer-contact-insta {
-  width: 30%;
+  width: 20%;
   height: 20%;
 }
