@@ -185,10 +185,15 @@ p {
   margin-top: 6%;
 }
 
+.footer-text br {
+ display: block;
+ content: "";
+ margin-top: -4%;
+}
+
 hr {
   width: 65%;
   border-color: #8b97a9;
-  margin-top: -3%;
 }
 
 .footer-contact {
