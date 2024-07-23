@@ -100,8 +100,7 @@ p {
 .header h1,
 .header h4 {
   width: 90%;
-  align-content: center;
-  text-align: center;
+  margin-left: 10%;
   animation: header-slidein 1.5s ease-in-out;
 }
 
