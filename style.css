@@ -15,7 +15,7 @@
   border: 1px solid #fff;
   list-style-type: none;
   margin: 0;
-  margin-left: 10%;
+  margin-left: 25%;
   margin-top: 0.5%;
   padding: 0;
   overflow: hidden;
@@ -29,8 +29,9 @@
 }
 
 .navigation li:first-child {
-  margin-left: 20%;
+  margin-left: 10%;
   margin-top: 0;
+  margin-bottom: 0.5%;
 }
 
 .navigation li:nth-child(2) {
