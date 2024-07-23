@@ -31,7 +31,7 @@
 .navigation li:first-child {
   margin-left: 10%;
   margin-top: 0;
-  margin-bottom: 0.5%;
+  margin-bottom: 1%;
 }
 
 .navigation li:nth-child(2) {
@@ -95,6 +95,21 @@ p {
   color: #fff;
   margin: -1%;
   margin-bottom: 0;
+}
+
+.header h1 h4 {
+  animation: header-slidein 1.5s ease-in-out;
+}
+
+@keyframes header-slidein {
+   0% {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .focus {
