@@ -114,8 +114,9 @@ p {
 }
 
 .about-header {
-  margin: -2% -1%;
+  margin: -3% -1%;
   color: #172e52;
+  padding: 1% 0;
   width: 102%;
   background: linear-gradient(90deg, #999999 0%, #eeeeee 50%, #999999 100%)
 }
