@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.navigation {
+  width: 102%;
+  padding: 0;
+  margin: 2 -1% 0 -1%; 
+}
+
+.navigation ul {
+  top: 0;
+  width: 50%;
+  height: 8%;
+  border: 1px solid #fff;
+  list-style-type: none;
+  margin: 0;
+  margin-left: 25%;
+  margin-top: 0.5%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #172e52;
+  font-family: 'Playfair Display', serif;
+}
+
+.navigation li {
+  float: left;
+  margin-top: 0.5%;
+}
+
+.navigation li:first-child {
+  margin-left: 10%;
+  margin-top: 0;
+}
+
+.navigation li:nth-child(2) {
+  margin-left: 2%;
+}
+
+.navigation a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 22px 15px;
+  padding-top: 28px;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  background-color: #0c1729;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 600%;
+  display: block;
+  font-weight: 500;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 400%;
+  display: block;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 250%;
+  font-weight: 600;
+}
+
+h4 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 150%;
+  font-weight: 400;
+}
+
+h5 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 150%;
+  font-weight: 350;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 130%;
+  font-weight: 400;
+}
+
+.footer {
+  background-color: #172e52;
+  color: white;
+  width: 100%;
+  margin: 0 -1% 0 -1%;
+  padding: 1%;
+  margin-bottom: -2%;
+}
+
+.footer-text {
+  display: flex;
+  margin-left: 33%;
+  margin-top: -2%;
+}
+
+.footer-text h4 {
+  margin-left: 3%;
+  margin-top: 6%;
+}
+
+.footer-text br {
+ display: block;
+ content: "";
+ margin-top: -4%;
+}
+
+hr {
+  width: 65%;
+  border-color: #8b97a9;
+  margin-top: -1%;
+}
+
+.footer-contact {
+  text-align: center;
+  display: flex;
+}
+
+.footer-contact p {
+  font-size: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.footer-contact h4 {
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
+.footer-contact-main,
+.footer-contact-map {
+  width: 30%;
+  height: 20%;
+  margin-right: -10%;
+  margin-left: -10%;
+}
+
+.footer-contact-main {
+  margin-left: 15%;
+}
+
+.footer-contact-insta {
+  width: 30%;
+  height: 20%;
+}
