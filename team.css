@@ -123,12 +123,30 @@ p {
   margin-left: 4%;
 }
 
-.founders-barnes,
-.founders-scott {
-  width: 40%;
-  height: 45%;
-  display: block;
+.founders h5,
+.founders p {
+  margin-top: -4%;
+}
+
+.founders img {
+  height: 65%;
+  width: 65%;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+
+.founders-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2%;
+}
+
+.founders-columns-barnes,
+.founders-columns-scott {
   background: #ffffff;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer {
