@@ -132,7 +132,7 @@ p {
   height: 45%;
   width: 45%;
   margin-top: 4%;
-  margin-left: 16%;
+  margin-left: 24%;
 }
 
 .founders-columns {
@@ -144,7 +144,7 @@ p {
 .founders-columns-barnes,
 .founders-columns-scott {
   background: #ffffff;
-  margin: 5%;
+  margin: 5% 5% 3% 5%;
   padding: 2%;
   display: flex;
   flex-direction: column;
