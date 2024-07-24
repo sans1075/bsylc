@@ -138,11 +138,13 @@ p {
 .founders-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 2%;
+  gap: 5%;
 }
 
 .founders-columns-barnes,
 .founders-columns-scott {
+  height: 75%;
+  width: 45%;
   background: #ffffff;
   padding: 2%;
   display: flex;
