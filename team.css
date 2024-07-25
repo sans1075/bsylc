@@ -170,6 +170,7 @@ p {
   margin-right: auto;
   margin-top: -2%;
   margin-bottom: -3%;
+  width: 100%;
 }
 
 .programdirector h4 {
@@ -193,6 +194,7 @@ p {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 3%;
+  justify-items: center;
 }
 
 .programdirector-columns-quaiyum {
@@ -204,7 +206,10 @@ p {
   justify-content: center;
   align-items: center;
   text-align: center;
+  width: 100%;
+  max-width: 45%;
 }
+
 
 
 .footer {
