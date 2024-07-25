@@ -140,7 +140,7 @@ p {
 .founders-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 5%;
+  gap: 3%;
 }
 
 .founders-columns-barnes,
