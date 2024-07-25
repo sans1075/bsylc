@@ -219,7 +219,7 @@ p {
 }
 
 .team-header {
-  display: flex;
+  display: block;
   align-content: center;
   margin-left: 15%;
   margin-top: -2%;
