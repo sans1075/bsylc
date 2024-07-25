@@ -152,6 +152,54 @@ p {
   flex-direction: column;
 }
 
+.programdirector {
+  background: #dddddd;
+  width: 100%;
+  margin: -2% -1% 0 -1%;
+  padding: 1%;
+  color: #172e52;
+  text-align: center;
+}
+
+.programdirector-header {
+  display: flex;
+  align-content: center;
+  margin-left: 15%;
+  margin-top: -2%;
+  margin-bottom: -3%;
+}
+
+.programdirector h4 {
+  margin-top: 5%;
+  margin-left: 4%;
+}
+
+.programdirector h5,
+.programdirector p {
+  margin-top: -4%;
+}
+
+.programdirector img {
+  max-height: 45%;
+  max-width: 45%;
+  margin-top: 4%;
+  align-self: center;
+}
+
+.programdirector-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3%;
+}
+
+.programdirector-columns-quaiyum {
+  background: #ffffff;
+  margin: 5% 3% 3% 3%;
+  padding: 2% 2% 0 2%;
+  display: flex;
+  flex-direction: column;
+}
+
 .footer {
   background-color: #172e52;
   color: white;
