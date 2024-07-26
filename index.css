@@ -88,7 +88,7 @@ p {
   width: 100%;
   text-align: center;
   padding: 1% 1%;
-  background-image: url('/bsylc/images/instagram.png');
+  background-image: ('/bsylc/images/instagram.png');
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
@@ -122,7 +122,7 @@ p {
 
 .about-top {
   display: flex;  
-  background-image: url('https://t4.ftcdn.net/jpg/06/30/02/39/360_F_630023928_XxF1TXveKuH8rzhedzdb7MJVxvxVZ5Jn.jpg');
+  background-image: ('/bsylc/images/about-background.jpg');
   text-align: center;
   justify-content: center;
   background-repeat: no-repeat;
@@ -161,7 +161,7 @@ p {
   padding: 1% 1%;
   padding-top: 0;
   align-content: space-evenly;
-  background-image: url('https://static.wixstatic.com/media/11062b_81c2fc27768c49ccb259123d551d58ec~mv2.jpg/v1/fill/w_980,h_805,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_81c2fc27768c49ccb259123d551d58ec~mv2.jpg');
+  background-image: url('/bsylc/images/about-focus-background.webp');
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 -1%;
