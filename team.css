@@ -276,8 +276,21 @@ p {
   margin-right: 3%;
 }
 
+.teams-columns-shewakena,
+.teams-columns-adeyokunnu,
+.teams-columns-mashrafi,
+.teams-columms-folem {
+  margin-bottom: -1%;
+}
+
+.teams-columns-mashrafi,
+.teams-columns-folem,
+.teams-columns-brown {
+  margin-top: -1%;
+}
+
 .team-columns-brown {
-  margin-bottom: 15%;
+  margin-bottom: 20%;
 }
 
 .footer {
