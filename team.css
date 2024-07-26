@@ -265,8 +265,19 @@ p {
   flex-direction: column;
 }
 
+.team-columns-shewakena,
+.team-columns-mashrafi,
 .team-columns-brown {
-  margin-bottom: 8%;
+  margin-left: 3%;
+}
+
+.team-columns-adeyokunnu,
+.team-columns-folem {
+  margin-right: 3%;
+}
+
+.team-columns-brown {
+  margin-bottom: 15%;
 }
 
 .footer {
