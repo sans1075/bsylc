@@ -82,6 +82,35 @@ p {
   font-family: 'Quicksand', sans-serif;
   font-size: 130%;
   font-weight: 400;
+  text-align: center;
+}
+
+.header img {
+  align-self: center;
+  width: 25%;
+  height: auto;
+}
+
+.header {
+  background-color: white;
+  text-color: #172e52;
+}
+
+.about {
+  background-color: #8b97a9;
+  text-color: #172e52;
+}
+
+button {
+  background-color: #172e52;
+  text-color: #8b97a9; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 .footer {
