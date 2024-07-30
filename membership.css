@@ -91,7 +91,7 @@ p {
   margin-left: 47%;
   width: 5%;
   margin-bottom: 1%;
-  margin-top: 0%;
+  margin-top: -0.5%;
   height: auto;
 }
 
@@ -102,7 +102,7 @@ p {
 
 .about {
   background-color: #C5CBD4;
-  padding-top: 1%;
+  padding-top: 0.5%;
   color: #172e52;
   margin-left: -1%;
   margin-right: -1%;
