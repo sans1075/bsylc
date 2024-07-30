@@ -32,10 +32,6 @@
   margin-top: 0;
 }
 
-.navigation li:nth-child(2) {
-  margin-left: 2%;
-}
-
 .navigation a {
   display: block;
   color: white;
