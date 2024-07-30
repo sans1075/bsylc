@@ -171,6 +171,12 @@ button {
   margin-top: -2%;
 }
 
+.footer-text p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 130%;
+  font-weight: 400;
+}
+
 .footer-text h4 {
   margin-left: 3%;
   margin-top: 6%;
